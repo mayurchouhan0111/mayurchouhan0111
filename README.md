@@ -21,4 +21,5 @@ Hi 👋, I am Mayur Chouhan, a 2nd Year Student currently pursuing my B.Tech in 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ...
 
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurchouhan0111 &show_icons=true&theme=radical)
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurchouhan0111&show_icons=true&theme=radical)
+
