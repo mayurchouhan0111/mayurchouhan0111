@@ -72,10 +72,31 @@
 
 ### 🚀 Featured Projects:
 
-- 💬 [Real-time Chat App](https://github.com/mayurchouhan0111/flutter-chat-app)
-- 🛒 [Shopping Cart App](https://github.com/mayurchouhan0111/flutter-shopping-app)
-- 📝 [Blog App](https://github.com/mayurchouhan0111/flutter-blog-app)
-- 📱 [BMI Calculator](https://github.com/mayurchouhan0111/bmi-calculator)
-- 🎨 [Wallpaper App](https://github.com/mayurchouhan0111/wallpaper-app)
+## 🚀 My Projects
+
+- 💬 [Real-time Chat App](https://github.com/mayurchouhan0111/flutter-chat-app)  
+  A fully-functional Flutter chat application using Firebase & Socket.IO.
+
+- 🛒 [Shopping Cart App](https://github.com/mayurchouhan0111/flutter-shopping-app)  
+  An e-commerce app with cart, product listing, and persistent data storage.
+
+- 📝 [Blog App](https://github.com/mayurchouhan0111/flutter-blog-app)  
+  A Firebase-powered blogging app supporting CRUD operations and media uploads.
+
+- 📱 [BMI Calculator](https://github.com/mayurchouhan0111/bmi-calculator)  
+  A sleek Flutter app to calculate Body Mass Index with visual feedback.
+
+- 🎨 [Wallpaper App](https://github.com/mayurchouhan0111/wallpaper-app)  
+  A grid-based app using APIs to fetch and display HD wallpapers.
+
+- 🌾 [Anajwala App](https://github.com/mayurchouhan0111/anajwala-app)  
+  A marketplace app connecting farmers and buyers for grain trading.
+
+- 🌍 [Bahasa Bandhu Regional Champion App](https://github.com/mayurchouhan0111/bahasa-bandhu)  
+  An educational and cultural app focused on regional language learning and competitions.
+
+- ✅ [Task Add App](https://github.com/mayurchouhan0111/task-add-app)  
+  A simple productivity app to manage, track, and mark tasks as completed.
+
 
 ---
