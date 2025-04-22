@@ -23,3 +23,6 @@ Hi 👋, I am Mayur Chouhan, a 2nd Year Student currently pursuing my B.Tech in 
 
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurchouhan0111&show_icons=true&theme=radical)
 
+![Snake animation](https://github.com/mayurchouhan0111/mayurchouhan0111/blob/output/github-contribution-grid-snake.svg)
+
+
