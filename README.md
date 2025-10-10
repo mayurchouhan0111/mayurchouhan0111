@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 I'm currently a 2nd Year B.Tech Student at SGSITS Indore, pursuing Industrial and Production Engineering.
+- 🎓 I'm currently a 3nd Year B.Tech Student at SGSITS Indore, pursuing Industrial and Production Engineering.
 - 💡 Passionate about Flutter, Firebase, and Real-time Applications.
 - 🔨 I love building things from scratch – Chat Apps, Shopping Apps, Blog Platforms, and UI Projects.
 - 💬 Ask me about Flutter, Firebase, BLoC, Socket.IO, and anything related to Clean Architecture.
