@@ -56,20 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurchouhan0111&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurchouhan0111&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=mayurchouhan0111&theme=radical&hide_border=true)
-
----
-
-### 🐍 Contribution Snake:
-
-![Snake animation](https://github.com/mayurchouhan0111/mayurchouhan0111/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🚀 Featured Projects:
 
 ## 🚀 My Projects
