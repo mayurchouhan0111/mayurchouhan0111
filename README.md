@@ -21,7 +21,7 @@
     Flutter Developer · UI Engineer
   </p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=800&color=7C3AED&center=false&vCenter=true&width=400&height=30&lines=Building+with+Flutter+%26+Firebase;Clean+Architecture+%7C+BLoC+%7C+Riverpod;3rd+Year+%40+SGSITS+Indore" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=800&color=7C3AED&center=false&vCenter=true&width=400&height=30&lines=Building+with+Flutter+%26+Firebase;Clean+Architecture+%7C+BLoC+%7C+Riverpod;4th+Year+%40+SGSITS+Indore" alt="Typing SVG" />
   </a>
   <br/><br/>
   <a href="https://linkedin.com/in/mayurchouhan0111">
@@ -68,7 +68,7 @@
 <td width="55%" valign="top" style="padding:40px;">
 
 <p style="font-family:system-ui,-apple-system,sans-serif;font-size:16px;color:#c0c0d8;line-height:1.8;margin:0;">
-  I'm a passionate <strong style="color:#7c3aed;">Flutter Developer</strong> from Indore, India, currently in my 3rd year at 
+  I'm a passionate <strong style="color:#7c3aed;">Flutter Developer</strong> from Indore, India, currently in my 4th year at 
   <strong style="color:#06b6d4;">SGSITS (IPE)</strong>. I specialize in building real-time applications with 
   clean architecture, beautiful UIs, and robust backend integration.
 </p>
@@ -348,7 +348,7 @@
 <tr>
 <td width="20%" valign="top" style="padding:0 24px 0 0;">
   <p style="font-family:system-ui,-apple-system,sans-serif;font-size:13px;color:#7c3aed;font-weight:700;margin:0 0 4px 0;">2024 — Present</p>
-  <p style="font-family:system-ui,-apple-system,sans-serif;font-size:11px;color:#6272a4;margin:0;">3rd Year</p>
+  <p style="font-family:system-ui,-apple-system,sans-serif;font-size:11px;color:#6272a4;margin:0;">4th Year</p>
 </td>
 <td width="5%" valign="top" align="center" style="padding:0;">
   <div style="width:12px;height:12px;border-radius:50%;background:linear-gradient(135deg,#7c3aed,#06b6d4);margin-top:4px;"></div>
