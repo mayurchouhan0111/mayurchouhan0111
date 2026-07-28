@@ -1,59 +1,49 @@
 <div align="center">
 
-<!-- ===== HERO: AURORA GRADIENT BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a0f,30:7c3aed,60:06b6d4,90:7c3aed,100:0a0a0f&height=340&section=header&text=&fontSize=1&animation=twinkling" width="100%" />
+<!-- ===== HERO BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,35:7c3aed,65:7c3aed,85:06b6d4,100:0a0a0f&height=200&section=header&text=&fontSize=1&animation=twinkling" width="100%" />
 
 <br/>
 
-<!-- ===== DEVELOPER ILLUSTRATION ===== -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:24px;margin-top:-120px;border:3px solid rgba(124,58,237,0.3);box-shadow:0 20px 60px rgba(124,58,237,0.2);" alt="Developer" />
-
-<br/><br/>
-
-<!-- ===== NAME + TITLE ===== -->
-<div style="margin-top:16px;">
-  <h1 style="font-family:system-ui,-apple-system,sans-serif;font-weight:800;font-size:48px;letter-spacing:-2px;margin:0;background:linear-gradient(135deg,#7c3aed,#06b6d4);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">
+<!-- ===== PROFILE CARD ===== -->
+<table width="80%" style="background:linear-gradient(145deg,#0f0f1a,rgba(124,58,237,0.08));border-radius:28px;border:1px solid rgba(124,58,237,0.2);box-shadow:0 0 60px rgba(124,58,237,0.1),0 8px 32px rgba(0,0,0,0.4);margin-top:-60px;">
+<tr>
+<td width="30%" align="center" style="padding:32px 16px;">
+  <img src="https://avatars.githubusercontent.com/u/180076178?s=400&v=4" width="140" height="140" style="border-radius:50%;border:3px solid rgba(124,58,237,0.5);box-shadow:0 0 40px rgba(124,58,237,0.3);" alt="Mayur Chouhan" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=mayurchouhan0111&style=flat-square&color=7c3aed&label=VISITORS" />
+</td>
+<td width="70%" align="left" style="padding:32px 24px;">
+  <h1 style="font-family:system-ui,-apple-system,sans-serif;font-weight:800;font-size:40px;letter-spacing:-2px;margin:0;background:linear-gradient(135deg,#a78bfa,#22d3ee);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">
     Mayur Chouhan
   </h1>
-  <p style="font-family:system-ui,-apple-system,sans-serif;font-size:18px;color:#a0a0b8;letter-spacing:0.5px;margin:8px 0 0 0;">
-    Flutter Developer · UI Engineer · Problem Solver
+  <p style="font-family:system-ui,-apple-system,sans-serif;font-size:16px;color:#a0a0b8;margin:4px 0 16px 0;">
+    Flutter Developer · UI Engineer
   </p>
-</div>
-
-<br/>
-
-<!-- ===== TYPING SVG ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Building+with+Flutter+%26+Firebase;Clean+Architecture+%7C+BLoC+%7C+Riverpod;3rd+Year+%40+SGSITS+Indore;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- ===== GLOWING SOCIAL BADGES ===== -->
-<a href="https://linkedin.com/in/mayurchouhan0111">
-  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" />
-</a>
-<a href="mailto:mayurchouhan0111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" />
-</a>
-<a href="https://instagram.com/mayurchouhan0111">
-  <img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f" />
-</a>
-<a href="https://github.com/mayurchouhan0111">
-  <img src="https://img.shields.io/badge/GitHub-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f" />
-</a>
-
-<br/><br/>
-
-<div style="display:flex;justify-content:center;gap:24px;flex-wrap:wrap;">
-  <code style="background:#0a0a0f;color:#a0a0b8;padding:6px 16px;border-radius:20px;border:1px solid rgba(124,58,237,0.2);font-size:13px;">📍 Indore, India</code>
-  <code style="background:#0a0a0f;color:#a0a0b8;padding:6px 16px;border-radius:20px;border:1px solid rgba(124,58,237,0.2);font-size:13px;">📧 mayurchouhan0111@gmail.com</code>
-  <code style="background:#0a0a0f;color:#a0a0b8;padding:6px 16px;border-radius:20px;border:1px solid rgba(124,58,237,0.2);font-size:13px;">🔭 Open to opportunities</code>
-</div>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=mayurchouhan0111&style=flat-square&color=7c3aed&label=VISITORS" />
-<img src="https://img.shields.io/github/followers/mayurchouhan0111?style=flat-square&color=06b6d4&label=FOLLOWERS" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=800&color=7C3AED&center=false&vCenter=true&width=400&height=30&lines=Building+with+Flutter+%26+Firebase;Clean+Architecture+%7C+BLoC+%7C+Riverpod;3rd+Year+%40+SGSITS+Indore" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+  <a href="https://linkedin.com/in/mayurchouhan0111">
+    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <a href="mailto:mayurchouhan0111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-06b6d4?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <a href="https://instagram.com/mayurchouhan0111">
+    <img src="https://img.shields.io/badge/Instagram-7c3aed?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <a href="https://github.com/mayurchouhan0111">
+    <img src="https://img.shields.io/badge/GitHub-06b6d4?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <br/><br/>
+  <code style="background:#0a0a0f;color:#a0a0b8;padding:4px 12px;border-radius:16px;border:1px solid rgba(124,58,237,0.2);font-size:12px;">📍 Indore, India</code>
+  <code style="background:#0a0a0f;color:#a0a0b8;padding:4px 12px;border-radius:16px;border:1px solid rgba(124,58,237,0.2);font-size:12px;">📧 mayurchouhan0111@gmail.com</code>
+  <code style="background:#0a0a0f;color:#a0a0b8;padding:4px 12px;border-radius:16px;border:1px solid rgba(124,58,237,0.2);font-size:12px;">🔭 Open to work</code>
+  <img src="https://img.shields.io/github/followers/mayurchouhan0111?style=flat-square&color=06b6d4&label=FOLLOWERS" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -460,12 +450,29 @@
 
 <br/><br/>
 
-<!-- ===== CINEMATIC FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a0f,30:7c3aed,60:06b6d4,90:7c3aed,100:0a0a0f&height=160&section=footer&text=Thanks%20for%20stopping%20by&fontSize=28&fontColor=ffffff&desc=Let's%20build%20something%20amazing%20together&descSize=14&descAlignY=65" width="100%" />
+<!-- ===== FOOTER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:7c3aed,50:06b6d4,75:7c3aed,100:0a0a0f&height=180&section=footer&text=Let's%20Connect&fontSize=26&fontColor=ffffff&desc=mayurchouhan0111@gmail.com&descSize=13&descAlignY=62" width="100%" />
 
 <br/>
-<sub style="font-family:system-ui,-apple-system,sans-serif;color:#6272a4;font-size:12px;">
-  © 2026 Mayur Chouhan · Designed with ❤️
+
+<div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+  <a href="https://linkedin.com/in/mayurchouhan0111">
+    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <a href="mailto:mayurchouhan0111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-06b6d4?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <a href="https://instagram.com/mayurchouhan0111">
+    <img src="https://img.shields.io/badge/Instagram-7c3aed?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <a href="https://github.com/mayurchouhan0111?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-06b6d4?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f" />
+  </a>
+</div>
+
+<br/>
+<sub style="font-family:system-ui,-apple-system,sans-serif;color:#6272a4;font-size:11px;letter-spacing:1px;text-transform:uppercase;">
+  © 2026 Mayur Chouhan · Designed from scratch
 </sub>
 
 </div>
