@@ -11,7 +11,7 @@
 <td width="30%" align="center" style="padding:32px 16px;">
   <img src="https://avatars.githubusercontent.com/u/180076178?s=400&v=4" width="140" height="140" style="border-radius:50%;border:3px solid rgba(124,58,237,0.5);box-shadow:0 0 40px rgba(124,58,237,0.3);" alt="Mayur Chouhan" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=mayurchouhan0111&style=flat-square&color=7c3aed&label=VISITORS" />
+  <img src="https://img.shields.io/badge/visitors-1000%2B-7c3aed?style=flat-square&labelColor=0a0a0f" />
 </td>
 <td width="70%" align="left" style="padding:32px 24px;">
   <h1 style="font-family:system-ui,-apple-system,sans-serif;font-weight:800;font-size:40px;letter-spacing:-2px;margin:0;background:linear-gradient(135deg,#a78bfa,#22d3ee);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">
