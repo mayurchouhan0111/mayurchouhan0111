@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,60:00ff88,100:00e5ff&height=220&section=header&text=Mayur%20Chouhan&fontSize=65&fontColor=ffffff&desc=Flutter%20%7C%20Firebase%20%7C%20Clean%20Architecture&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,60:ff6b6b,80:ffd93d,100:6bcb77&height=240&section=header&text=Mayur%20Chouhan&fontSize=60&fontColor=ffffff&desc=Flutter%20%7C%20Firebase%20%7C%20Clean%20Architecture&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/Wen3tZFsGA1hu/giphy.gif" width="200" alt="Dragon Flying" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF88&center=true&vCenter=true&width=550&height=45&lines=Building+real-time+apps+with+Flutter;Clean+Architecture+%7C+BLoC+%7C+Riverpod;3rd+year+%40+SGSITS+%7C+IPE+Indore;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
@@ -8,12 +14,10 @@
 
 <br/><br/>
 
-<!-- Avatar with glow -->
-<img src="https://avatars.githubusercontent.com/u/180076178?s=300&v=4" width="130" height="130" style="border-radius:50%;border:3px solid #00ff88;box-shadow:0 0 30px rgba(0,255,136,0.3);" alt="Mayur Chouhan" />
+<img src="https://avatars.githubusercontent.com/u/180076178?s=300&v=4" width="130" height="130" style="border-radius:50%;border:3px solid #ffd93d;box-shadow:0 0 30px rgba(255,217,61,0.3);" alt="Mayur Chouhan" />
 
 <br/><br/>
 
-<!-- Social badges -->
 <a href="https://linkedin.com/in/mayurchouhan0111">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -137,16 +141,6 @@ Real-time weather with 7-day forecast, smart city search, and Riverpod + Clean A
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayurchouhan0111&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Code is not just syntax, it's how I think out loud."
@@ -170,6 +164,6 @@ Real-time weather with 7-day forecast, smart city search, and Riverpod + Clean A
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,60:00ff88,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6bcb77,40:ffd93d,80:ff6b6b,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
